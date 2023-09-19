@@ -15,9 +15,9 @@ Projeto Disciplina de Desenvolvimento Web em grupo
 ## Design da pagina/ Esboço 
 <img src="/design/pagina inicial.jpg">
 <img src="/design/pagina criar.jpeg">
-<img src="/login.jpg">
-<img src="criar projeto.jpeg">
-<img src="publicar.jpeg">
+<img src="/design/login.jpg">
+<img src="/design/criar projeto.jpeg">
+<img src="/design/publicar.jpeg">
 
 ## Integrantes do grupo
 - Adriel Henrique Aguilera Françozo - RA: 202303250381
