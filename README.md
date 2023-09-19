@@ -12,6 +12,9 @@ Projeto Disciplina de Desenvolvimento Web em grupo
 - Pagina para criar os curriculos/portifolios
 - Pagina para publicar os curriculos/portifolios
 
+## Design da pagina/ Esboço 
+<img src="/design/login.jpg">
+
 ## Integrantes do grupo
 - Adriel Henrique Aguilera Françozo - RA: 202303250381
 - Ellen de Souza Ribeiro Jardim - RA: 202303691289
