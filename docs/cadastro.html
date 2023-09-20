@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +7,27 @@
     <link href="./estilos/estilo.css" rel="stylesheet">
 </head>
 <body>
-    
+    <h1>Cadastro</h1>
+    <br>
+    <form action="cadastro.html" method="post">
+        <table>
+        <tr> <th> <label>Nome completo:</label><br>
+        <input type="text" name="Nome completo" placeholder="Nome"> </th>
+        <th><label>Data de nascimento:</label><br>
+        <input type="text" name="Data de nascimento" placeholder="dd/mm/aaaa"> </th> </tr> 
+        <br>
+        <tr> <th> <label>CPF:</label><br>
+        <input type="text" name="CPF" placeholder="CPF"> </th>
+        <br>
+        <th> <label>Telefone celular*:</label><br>
+        <input type="text" name="Telefone" placeholder="(__)_ ____-____"> </th> </tr>
+        <br>
+        <tr> <th> <label>Email:</label><br>
+        <input type="text" name="Email:" placeholder="E-mail"> </th> </tr>
+        <tr> <th> <label>Senha:</label><br>
+        <input type="password" name="Senha" placeholder="Crie sua senha"> </th>
+        <th> <label>Confrme sua senha:</label> <br>
+        <input type="password" name="Senha" placeholder="Confirme sua senha"> </th> </tr>
+    </form>
 </body>
 </html>
