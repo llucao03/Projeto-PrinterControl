@@ -13,11 +13,11 @@ Projeto Disciplina de Desenvolvimento Web em grupo
 - Pagina para publicar os curriculos/portifolios
 
 ## Design da pagina/ Esboço 
-<img src="/design/pagina inicial.jpg">
-<img src="/design/pagina criar.jpeg">
-<img src="/design/login.jpg">
-<img src="/design/criar projeto.jpeg">
-<img src="/design/publicar.jpeg">
+<img src="/img/pagina inicial.jpg">
+<img src="/img/pagina criar.jpeg">
+<img src="/img/login.jpg">
+<img src="/img/criar projeto.jpeg">
+<img src="/img/publicar.jpeg">
 
 ## Integrantes do grupo
 - Adriel Henrique Aguilera Françozo - RA: 202303250381
