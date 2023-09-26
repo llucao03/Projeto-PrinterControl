@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #0f0c25;
+    background-color: #000000;
     color: #fff;
 }
 
@@ -55,8 +55,8 @@ a {
     height: 40px;
     border-radius: 20px;
     border: none;
-    background-color: rgb(134, 243, 134);
-    color: #141414;
+    background-color: rgb(109, 111, 223);
+    color: #ffffff;
 }
 
 input::placeholder {
