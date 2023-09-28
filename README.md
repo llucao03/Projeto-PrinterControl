@@ -7,6 +7,7 @@ Projeto Disciplina de Desenvolvimento Web em grupo
 
 ## Estrutura da pagina
 - Pagina inicial
+Pagina quem somos, pagina suporte e aba login
 - Pagina de cadastro
 - Pagina de login
 - Pagina para criar os curriculos/portifolios
