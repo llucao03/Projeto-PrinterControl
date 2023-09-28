@@ -6,8 +6,7 @@ Projeto Disciplina de Desenvolvimento Web em grupo
 - Nossa loja ira se chamar WebTech Curriculum. Teremos o total compromisso de entregar o melhor serviço aos nossos clientes para que assim possam encontrar empregos
 
 ## Estrutura da pagina
-- Pagina inicial
-Pagina quem somos, pagina suporte e aba login
+- Pagina inicial (Pagina quem somos, pagina suporte e aba login)
 - Pagina de cadastro
 - Pagina de login
 - Pagina para criar os curriculos/portifolios
