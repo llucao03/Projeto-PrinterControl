@@ -124,7 +124,7 @@ body {
 
 .conteudo-principal-escrito {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 32px;
 }
 
