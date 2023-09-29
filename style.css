@@ -32,15 +32,15 @@ body {
   .conteudo-principal-escrito {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 32px;
   }
 
   .conteudo-principal-escrito-titulo {
-    font-size: 4px;
+    font-size: 8px;
   }
 
   .conteudo-principal-escrito-subtitulo {
-    font-size: 8px;
+    font-size: 12px;
   }
 
   .conteudo-principal-escrito-botao {
