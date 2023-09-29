@@ -96,9 +96,9 @@ body {
 }
 .cabecalho {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   padding: 24px;
 }
 
@@ -108,15 +108,14 @@ body {
 
 .cabecalho-menu {
   display: flex;
-  flex-direction: column;
-  gap: 16px;
+  gap: 32px;
 }
 
 .cabecalho-menu-item {
   font-family: 'Sarala', sans-serif;
   color: #FFF2E7;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 18px
 }
 
 .conteudo {
@@ -140,14 +139,14 @@ body {
 .conteudo-principal-escrito-titulo {
   font-family: 'Righteous', cursive;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 64px;
   color: #FFF2E7;
 }
 
 .conteudo-principal-escrito-subtitulo {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 24px;
   color: #ECD6C4;
 }
 
