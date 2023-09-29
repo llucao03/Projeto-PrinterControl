@@ -25,7 +25,6 @@ body {
   .cabecalho {
     flex-direction: column;
   }
-}
 
 .cabecalho-imagem {
   height: 90px;
@@ -150,7 +149,7 @@ body {
     padding: 32px;
     border-top: 0.4px solid #FFF2E7;
 }
-
+}
 .rodape-imagem {
   height: 125px;
   display: block;
