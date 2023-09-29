@@ -56,13 +56,14 @@ body {
     align-items: center;
 }
 
-.Entrar {
-    text-decoration: none;
-    background-color: #6c63ff;
-    border-radius: 20px;
+.EntrarForm{
+    background-color: red;
     padding: 15px;
-    width: 30px;
-    height: 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    width: 90px;
+    text-align: center;
+    color: #000000;
 }
 
 .login-button button {
