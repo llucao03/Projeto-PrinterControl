@@ -29,6 +29,12 @@ body {
     gap: 16px;
   }
 
+  .conteudo-principal-escrito {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
   .conteudo-principal-escrito-titulo {
     font-size: 25px;
   }
@@ -118,7 +124,7 @@ body {
 
 .conteudo-principal-escrito {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 32px;
 }
 
