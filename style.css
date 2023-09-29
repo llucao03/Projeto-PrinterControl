@@ -36,7 +36,7 @@ body {
   }
 
   .conteudo-principal-escrito-titulo {
-    font-size: 10px;
+    font-size: 4px;
   }
 
   .conteudo-principal-escrito-subtitulo {
@@ -117,7 +117,7 @@ body {
 
 .conteudo-principal {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: space-around;
 }
