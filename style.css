@@ -26,7 +26,7 @@ body {
 
   .conteudo-principal {
     flex-direction: column;
-    gap: 16px;
+    gap: 14px;
   }
 
   .conteudo-principal-escrito {
@@ -36,11 +36,11 @@ body {
   }
 
   .conteudo-principal-escrito-titulo {
-    font-size: 25px;
+    font-size: 16px;
   }
 
   .conteudo-principal-escrito-subtitulo {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .conteudo-principal-escrito-botao {
@@ -60,7 +60,7 @@ body {
   }
 
   .conteudo-secundario-paragrafo {
-    font-size: 16px;
+    font-size: 13px;
   }
 
   .conteudo-Quem-somos-titulo {
