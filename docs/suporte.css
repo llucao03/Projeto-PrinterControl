@@ -17,6 +17,45 @@
     padding-left: 1rem;
   }
   
+  @media (max-width: 768px) {
+    .cabecalho {
+      flex-direction: column;
+      align-items: center;
+      padding: 16px;
+    }
+  
+    .cabecalho-menu {
+      flex-direction: column;
+      gap: 16px;
+    }
+    
+  }
+
+  .cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+    width: 100%;
+  }
+
+  .cabecalho-imagem {
+    height: 90px;
+  }
+
+  .cabecalho-menu {
+    display: flex;
+    gap: 32px;
+  }
+  
+  .cabecalho-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px
+  }
+  
   h1,
   h2 {
     font-size: 3rem;
