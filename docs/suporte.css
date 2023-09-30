@@ -137,3 +137,7 @@
     outline: none;
     background: #09d;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
