@@ -66,6 +66,18 @@ body {
     height: 90px;
   }
 
+  .cabecalho-menu {
+    display: flex;
+    gap: 32px;
+  }
+  
+  .cabecalho-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px
+  }
+  
   .conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #FFF2E7;
