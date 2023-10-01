@@ -179,45 +179,40 @@ body {
     color: #fff;
 }
 
-@media screen and (max-width: 1330px) {
+@media screen and (max-width: 768px) {
+    .form-header {
+        margin-bottom: 0;
+        flex-direction: column;
+       margin-top: 300px;
+    }
+    .title{
+        margin-bottom: 30px;
+    }
+    
+    
     .form-image {
         display: none;
     }
-    .container {
-        width: 50%;
+    .input-group{
+        flex-direction: column;
+        justify-content: center;
+        background-color: #fff;
     }
-    .form {
-        width: 100%;
+    .gender-inputs{
+        background-color: #fff;
+       
+    }
+    .gender-group{
+        flex-direction: column;
+      
+    }
+    body{
+        background-color: #fff;
+    }
+    .container {
+        width: 30px;
+        height: 30px;
+        justify-content: center
+        
     }
 }
-
-@media screen and (max-width: 1064px) {
-    .container {
-        width: 90%;
-        height: auto;
-    }
-    .input-group {
-        flex-direction: column;
-        z-index: 5;
-        padding-right: 5rem;
-        max-height: 10rem;
-        overflow-y: scroll;
-        flex-wrap: nowrap;
-    }
-    .gender-inputs {
-        margin-top: 2rem;
-    }
-    .gender-group {
-        flex-direction: column;
-    }
-    .gender-title h6 {
-        margin: 0;
-    }
-    .gender-input {
-        margin-top: 0.5rem;
-    }
-}
-
-html {
-    scroll-behavior: smooth;
-  }

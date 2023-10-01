@@ -1,19 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
   }
   body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    font-family: "Arial";
+  font-family: "Arial";
     gap:16px;
     font-size: 100%;
     background: linear-gradient(68.15deg, #0f0f0f 16.62%, #000000 85.61%);
   }
-
+ 
+  
   @media (max-width: 768px) {
+   
     .cabecalho {
       flex-direction: column;
       align-items: center;
@@ -32,6 +32,14 @@
     .rodape-imagem {
       height: 80px;
     }
+    .container-card{
+      flex-direction: column;
+      justify-content: center;
+      margin-left: 75px;
+    }
+    .card{
+      margin-bottom: 30px;
+    }
     
   }
 
@@ -42,22 +50,33 @@
     justify-content: space-around;
     padding: 24px;
     width: 100%;
+    margin-bottom: 300px;
+    border-bottom: 0.4px solid #FFF2E7;
+   
+   
   }
   
   .cabecalho-imagem {
-    height: 90px;
+    height: 120px;
   }
   
   .cabecalho-menu {
     display: flex;
-    gap: 32px;
+    gap: 22px;
+  
+    
   }
   
   .cabecalho-menu-item {
     font-family: 'Sarala', sans-serif;
     color: #FFF2E7;
     font-weight: 400;
-    font-size: 18px
+    font-size: 28px
+    
+  }
+  .cabecalho-menu a{
+    text-decoration: none;
+    
   }
   
   .card {
@@ -102,4 +121,9 @@
   .card button:hover {
     background-color: #137de8;
     cursor: pointer;
+  }
+  .container-card{
+    display: flex;
+    justify-content:space-around;
+  
   }

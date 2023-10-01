@@ -60,6 +60,7 @@ body {
     justify-content: space-around;
     padding: 24px;
     width: 100%;
+    border-bottom: 0.4px solid #FFF2E7;
   }
 
   .cabecalho-imagem {
@@ -75,7 +76,7 @@ body {
     font-family: 'Sarala', sans-serif;
     color: #FFF2E7;
     font-weight: 400;
-    font-size: 18px
+    font-size: 28px
   }
 
   .conteudo {
