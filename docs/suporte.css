@@ -6,6 +6,7 @@
   }
   
   body {
+    font-size: 100%;
     background: linear-gradient(68.15deg, #0f0f0f 16.62%, #000000 85.61%);
     display: flex;
     align-items: center;
