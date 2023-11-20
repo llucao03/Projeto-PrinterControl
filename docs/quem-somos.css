@@ -60,7 +60,7 @@ body {
     justify-content: space-around;
     padding: 24px;
     width: 100%;
-    border-bottom: 0.4px solid #FFF2E7;
+    border-bottom: 0.4px solid #3977be;
   }
 
   .cabecalho-imagem {
@@ -74,14 +74,14 @@ body {
   
   .cabecalho-menu-item {
     font-family: 'Sarala', sans-serif;
-    color: #FFF2E7;
+    color: #3977be;
     font-weight: 400;
     font-size: 28px
   }
 
   .conteudo {
     margin-bottom: 48px;
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid #3977be;
   }
   
   .conteudo-principal {
@@ -101,14 +101,14 @@ body {
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 36px;
-    color: #FFF2E7;
+    color: #3977be;
   }
   
   .conteudo-principal-escrito-subtitulo {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 20px;
-    color: #ECD6C4;
+    color: #3977be;
   }
 
   .conteudo-secundario {
@@ -120,12 +120,12 @@ body {
   }
   
   .conteudo-secundario-titulo {
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid #3977be;
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 24px;
-    color: #FFF2EF;
+    color: #3977be;
     margin-bottom: 16px;
   }
 
@@ -133,7 +133,7 @@ body {
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
     font-size: 18px;
-    color: #ECD6C4;
+    color: #3977be;
   }
 
   .integrantes {
@@ -145,12 +145,12 @@ body {
   }
 
   .integrantes-titulo {
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.4px solid #3977be;
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 24px;
-    color: #FFF2EF;
+    color: #3977be;
     margin-bottom: 16px;
   }
 
@@ -158,13 +158,13 @@ body {
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
     font-size: 14px;
-    color: #ECD6C4;
+    color: #3977be;
     align-items: center;
   }
   
   .rodape{
     padding: 32px;
-    border-top: 0.4px solid #FFF2E7 ;
+    border-top: 0.4px solid #3977be ;
   }
 
   .rodape-imagem {
