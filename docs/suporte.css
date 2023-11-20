@@ -37,7 +37,7 @@
     justify-content: space-around;
     padding: 24px;
     width: 100%;
-    border-bottom: 0.4px solid #FFF2E7;
+    border-bottom: 0.4px solid #3977be;
     margin-bottom: 30px;
     margin-top: 0;
   }
@@ -59,7 +59,7 @@
   
   .cabecalho-menu-item {
     font-family: 'Sarala', sans-serif;
-    color: #FFF2E7;
+    color: #3977be;
     font-weight: 400;
     font-size: 28px
   }
@@ -130,7 +130,7 @@
   .form button {
     display: block;
     padding: 1rem;
-    background: #0072c4;
+    background: #3977be;
     color: #fff;
     font: inherit;
     text-transform: uppercase;
