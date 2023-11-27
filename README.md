@@ -11,7 +11,6 @@ Projeto Disciplina de Desenvolvimento Web interativo em grupo
 - Pagina para organizar as impressoras
 - Pagina para ver os dados das impressoras e do cliente
 
-- ## Design da pagina/ Esboço
 
 ## Integrantes do grupo
 - Adriel Henrique Aguilera Françozo - RA: 202303250381
